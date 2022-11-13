@@ -8,7 +8,7 @@ export const About = () => (
         This project was brought to life by these amazing people:
       </div>
       <ul className='space-y-4 text-2xl font-medium text-center text-gray-500'>
-        <li>Joseph Tarrazi</li>
+        <li></li>
         <li>Mhamad Ibrahim</li>
         <li>Jana Zrayka</li>
         <li>Sally Sardouk</li>
